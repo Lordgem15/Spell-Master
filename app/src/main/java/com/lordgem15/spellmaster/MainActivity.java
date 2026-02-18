@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity implements TextToSpeech.OnIn
 
         webView.addJavascriptInterface(new AndroidTTSBridge(), "AndroidTTS");
 
-        webView.loadUrl("https://macaron.im/share/699318352ab78eac81c6ca6f?pwd=KMGK");
+        webView.loadUrl("https://word-spell-master--lordgema15.replit.app");
     }
 
     @Override
